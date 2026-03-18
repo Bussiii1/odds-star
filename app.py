@@ -34,7 +34,7 @@ DEFAULT_KEYS = {
     "sportmonks":    "H6yYNAkAClvuLNk6gLfzJI2v2dDrdemxVEPM3NOVefRPKe1CyA6hoyhclIAM",
     "balldontlie":   "2d3aba2c-552b-408b-9b7b-f3a3890aa83c",
     "scorebat":      "Mjg1MDE5XzE3NzM4Njg2NzRfZDBkNjg4Njk5ZjQyMGU0YjA0Yzg0ZDVkMjVjNDMxNDE4ODAwNzliMA==",
-    "gemini":        "AIzaSyAt_m53p5Izv5b8iAYoJMQD4Inmg8Mzd14",
+    "gemini":        "AIzaSyCfx9zLLj24o6I-WK5py1fgjGcM1tAOIAM",
     "youtube":       "AIzaSyB2ccyXniDY2-hyJn9NbQD9-aHODhb4CLE",
 }
 
